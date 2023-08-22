@@ -24,11 +24,6 @@ This WordPress plugin allows you to change the display of product prices from ze
 - WordPress >= 5.0
 - WooCommerce >= 3.0
 
-## Screenshots
-
-![Setting Page](screenshot-1.png)
-*Setting Page*
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
